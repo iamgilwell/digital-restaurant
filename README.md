@@ -1,1 +1,1 @@
-# digital-restaurant
+# Open Source Digital Restaurant
